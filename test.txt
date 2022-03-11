@@ -1,0 +1,3 @@
+This is a unversity exm for OODP
+ this  is a program to illustrate the use of files
+
